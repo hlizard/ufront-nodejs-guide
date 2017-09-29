@@ -10,6 +10,6 @@
 		"multer": "^1.1.0"
 	},
 	"scripts": {
-		"start": "./start_server.sh"
+		"start": ".\\start_server.bat"
 	}
 }
